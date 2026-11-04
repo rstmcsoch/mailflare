@@ -1,1 +1,2 @@
 # mailflare
+<!-- deploy trigger 2026-11-04 -->
